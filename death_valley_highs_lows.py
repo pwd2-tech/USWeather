@@ -2,6 +2,10 @@ import csv
 import matplotlib.pyplot as plt
 from datetime import datetime
 
+# Add a test function.
+def test_func():
+    pass
+
 #filename = 'data/sitka_weather_07-2018_simple.csv'
 #filename = 'data/sitka_weather_2018_simple.csv'
 filename = 'data/death_valley_2018_simple.csv'
